@@ -17,4 +17,4 @@ This is a simple React application that demonstrates a basic shopping cart funct
 
  ## Deployment
 
-The application is deployed and can be accessed here : [Context-Cart-Api]()
+The application is deployed and can be accessed here : [Context-Cart-Api](https://wwwcontextcartapicom.netlify.app/)
